@@ -1,6 +1,6 @@
 # 🌟 Welcome to My Personal Space
 
-Hey there! 👋 Thanks for stopping by my little corner of GitHub. This org is where I build, break, and (usually) fix projects across system development, web apps, and Android—all with a focus on clean architecture, practical features, and a sprinkle of fun. 😄
+Hey there! 👋 Thanks for stopping by my little corner of GitHub. This org is where I build, break, and (usually) fix projects across system development, web apps, and Android - all with a focus on clean architecture, practical features, and a sprinkle of fun. 😄
 
 ## 🚀 What I Build
 - System and web apps with role-based access, smart navigation, and real-world workflows.
@@ -14,7 +14,7 @@ Hey there! 👋 Thanks for stopping by my little corner of GitHub. This org is w
 - File-based storage for straightforward persistence during early stages or utility projects.
 
 ## 📦 Featured Projects
-- User Management & Auth Suite: Cookie-based sessions with expiration and file-backed credentials—simple, portable, and effective 🍪.
+- User Management & Auth Suite: Cookie-based sessions with expiration and file-backed credentials - simple, portable, and effective 🍪.
 - System Utilities in C++: Unique ID generation, fast lookups, and robust data handling ⚙️.
 - Android Power Tools:
   - Quick Settings Tile that opens Sound Settings on long-press 🎛️.
@@ -40,8 +40,8 @@ Suggestions, issues, and PRs are always welcome!
 ## 📫 Get in Touch
 - Got feedback or ideas for features?
 - Want to collaborate on Android utilities or C++ tools?
-- Open an issue or start a discussion—let’s build cool stuff together! 🚧✨
+- Open an issue or start a discussion - let’s build cool stuff together! 🚧✨
 
 ***
 
-Thanks for visiting—feel free to star ⭐ the repos that helped or inspired you!
+Thanks for visiting - feel free to star ⭐ the repos that helped or inspired you!
