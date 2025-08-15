@@ -3,23 +3,23 @@
 Hey there! 👋 Thanks for stopping by my little corner of GitHub. This org is where I build, break, and (usually) fix projects across system development, web apps, and Android—all with a focus on clean architecture, practical features, and a sprinkle of fun. 😄
 
 ## 🚀 What I Build
-- System and web apps with role-based access, smart navigation, and real-world workflows.[1][2]
-- Lightweight file-based persistence for quick prototypes and tools (think users.txt, course.txt, etc.).[3]
-- Solid user data handling with unique ID generation and file-backed lookups (C++ power! ⚙️).[4][5]
-- Android apps in Kotlin/Java, including Quick Settings tiles and accessibility features ⚡.[6][7][8][9][10]
+- System and web apps with role-based access, smart navigation, and real-world workflows.
+- Lightweight file-based persistence for quick prototypes and tools (think users.txt, course.txt, etc.).
+- Solid user data handling with unique ID generation and file-backed lookups (C++ power! ⚙️).
+- Android apps in Kotlin/Java, including Quick Settings tiles and accessibility features ⚡.
 
 ## 🧰 Tech Stack
-- C++ for performance-critical tools and system logic.[5]
-- Kotlin/Java for Android with Gradle (Kotlin DSL), using modern namespaces and best practices.[7][8][10][6]
-- File-based storage for straightforward persistence during early stages or utility projects.[11][3]
+- C++ for performance-critical tools and system logic.
+- Kotlin/Java for Android with Gradle (Kotlin DSL), using modern namespaces and best practices.
+- File-based storage for straightforward persistence during early stages or utility projects.
 
 ## 📦 Featured Projects
-- User Management & Auth Suite: Cookie-based sessions with expiration and file-backed credentials—simple, portable, and effective 🍪.[2][11]
-- System Utilities in C++: Unique ID generation, fast lookups, and robust data handling ⚙️.[4][5]
+- User Management & Auth Suite: Cookie-based sessions with expiration and file-backed credentials—simple, portable, and effective 🍪.
+- System Utilities in C++: Unique ID generation, fast lookups, and robust data handling ⚙️.
 - Android Power Tools:
-  - Quick Settings Tile that opens Sound Settings on long-press 🎛️.[7]
-  - Accessibility-powered screen lock with a helpful widget to guide permission setup 🔒.[9]
-  - Android app modules under the namespace: dev.y4z.pixelfeatures 📱.[8]
+  - Quick Settings Tile that opens Sound Settings on long-press 🎛️.
+  - Accessibility-powered screen lock with a helpful widget to guide permission setup 🔒.
+  - Android app modules under the namespace: dev.y4z.pixelfeatures 📱.
 
 ## 🗺️ Project Philosophy
 - Start simple, scale when it matters.
